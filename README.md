@@ -1,2 +1,2 @@
-# lavel
-I am checking something
+# laravel6
+ 
